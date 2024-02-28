@@ -1,2 +1,2 @@
 # EZDown
-This is a modified version of Fido running on Winpe system.
+This is a modified version of Fd running on Winpe system.
